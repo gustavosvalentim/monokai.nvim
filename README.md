@@ -54,7 +54,7 @@ It is possible to customize Monokai theme with `setup` function (only in Lua). P
     palette = {
         name = 'monokai',
         base1 = '#272a30',
-        base2 = '#26292C',
+        base2 = '#1f1f1f',
         base3 = '#2E323C',
         base4 = '#333842',
         base5 = '#4d5154',
